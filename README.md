@@ -68,4 +68,4 @@ API3.0-V3-Java 签名示例
 参考：https://doc.weixin.qq.com/doc/w2_ABYA-waDACcF2rEVTbYSWKJllb4MY?scode=AJEAIQdfAAoWkG1GrqAEwANgaTACk
 
 问10：人脸融合、人脸驱动支持对带通道图片进行处理吗?最终生成带通道,或者带mask信息的视频
-不支持，我们输出的是mp4(H264+AAC)  
+不支持，我们输出的mp4(H264+AAC)  
