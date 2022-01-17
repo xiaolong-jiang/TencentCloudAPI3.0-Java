@@ -2,12 +2,7 @@ API3.0-V3-Java 签名示例
 使用方法：直接将文件拖到项目，在需要使用的地方引入头文件，只需要setConfig一次
 
 
-●单脸视频人脸融合接入引导
-1.账号开通白名单，若通过子账号测试，需子账号所属的主账号已加白名单
-2.视频融合操作手册PDF:https://drive.weixin.qq.com/s?k=AJEAIQdfAAoFY1F9vX
-3.对应语言SDK包：https://drive.weixin.qq.com/s?k=AJEAIQdfAAoQcucNhm，常用整合Java-SDK整合包：https://drive.weixin.qq.com/s?k=AJEAIQdfAAo1sglwOx
-4.视频人脸融合对外联调说明文档：https://drive.weixin.qq.com/s?k=AJEAIQdfAAoFhGwVIX
-多脸视频融合接入详细可对接售前、运营、商务等，此处暂只提供单脸视频融合示例
+常见问题FAQ：
 
 ●关于视频素材版权问题
 1.明星人物、品牌LOGO等涉及版权风险的素材,均需要提供版权证明
@@ -29,8 +24,6 @@ API3.0-V3-Java 签名示例
 ●关于时效问题
 1.Submit接口生成的JobId的有效期：1小时
 2.Query接口生成的VideoUrl（视频）的有效期：24小时
-
-常见问题FAQ：
 
 问1：图片传输用url还是base64，如果是url，存在哪里综合性能会更快，是否需要开网络加速功能等？
 1.建议访问传url
